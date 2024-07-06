@@ -57,5 +57,5 @@ To get started with the course materials:
 
 1. Clone the repository to your local machine using:
    ```bash
-   git clone https://github.com/yourusername/the-complete-2024-web-development-bootcamp.git
+   git clone https://github.com/guptuv/The-Complete-2024-Web-Development-Bootcamp.git
 
